@@ -286,7 +286,3 @@ pytest tests/ -v
 ```
 
 ---
-
-## License
-
-Kanz Majdalawi
