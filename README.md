@@ -10,8 +10,8 @@
 
 ## Live Demo
 
+Can check it out here: https://supply-chain-monte-carlo-fzt4zvrserdqhmzsw4mxkl.streamlit.app
 ```
-streamlit run app.py
 ```
 
 Or deploy to [Streamlit Cloud](https://share.streamlit.io) — free hosting for public repos.
